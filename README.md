@@ -27,4 +27,6 @@ python3 start_window.py
 
 <подробнее смотреть в LINUX_AND_MACOS_START & WINDOWS_START =) >
 
+<iframe src="https://giphy.com/embed/wsUtUtLR3A2XPvfLVs" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-wsUtUtLR3A2XPvfLVs">via GIPHY</a></p>
+
 
