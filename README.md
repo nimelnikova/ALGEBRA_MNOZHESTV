@@ -13,8 +13,8 @@
    
              __
 КРЯ  КРЯ   <(o )___
-            (  ._>  `=- 
-             `-----'` 
+            (  ._>  =- 
+              -----' 
 
 завершите выполнение и посмотрите на свои результаты!
 ![Python](https://img.shields.io/badge/Python-3.8-blue.svg?logo=python&logoColor=white)
